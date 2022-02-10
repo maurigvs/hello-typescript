@@ -8,7 +8,7 @@ function minhaFunc(x, y){
 let num = 2;
 const PI = 3.14;
 
-var numero = [1, 2, 3];
+var numeros = [1, 2, 3];
 
 numeros.map(function(valor)){
     return valor * 2;
